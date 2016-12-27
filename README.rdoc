@@ -2,3 +2,6 @@
 
 this is a skaleton rails app based on the template BlackrockDigital/startbootstrap-freelancer
 
+*awesome fonts
+*bootstrap 3
+*mailer
